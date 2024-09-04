@@ -1,1 +1,2 @@
 # classification-challenge
+This project involved developing and comparing Logistic Regression and Random Forest Classifier models for detecting spam emails. The Random Forest Classifier achieved higher accuracy, demonstrating its ability to handle complex data patterns better than Logistic Regression. This highlights the effectiveness of ensemble methods for intricate datasets and suggests similar approaches could be beneficial for tasks like credit card fraud detection.
